@@ -1,4 +1,4 @@
-[![Social banner for john](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://abarojohncleo.gitlab.io/cv_johnny/skills.html)
+[![Social banner for john](https://github.com/abarojohncleo/abarojohncleo/blob/main/banner/Green%20and%20Monochrome%20Photo%20Corporate%20Website%20Facebook%20Cover%20(1).png)](https://abarojohncleo.gitlab.io/cv_johnny/skills.html)
 <!-- <h1 align='left'> Hi! There</h1>
 <p align='left'>
 I am John
